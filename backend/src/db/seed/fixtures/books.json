@@ -1,0 +1,137 @@
+[
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
+    "authorId": 1,
+    "description": "The first book in the Harry Potter series.",
+    "publisher": "Bloomsbury",
+    "publishDate": "1997-06-26T00:00:00.000Z",
+    "pagesNumber": 223
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "cover": "https://m.media-amazon.com/images/I/918wxhKJaPL._AC_UF1000,1000_QL80_.jpg",
+    "authorId": 1,
+    "description": "The second book in the Harry Potter series.",
+    "publisher": "Bloomsbury",
+    "publishDate": "1998-07-02T00:00:00.000Z",
+    "pagesNumber": 251
+  },
+  {
+    "title": "1984",
+    "cover": "https://m.media-amazon.com/images/I/71rpa1-kyvL.jpg",
+    "authorId": 2,
+    "description": "A dystopian novel set in a totalitarian society.",
+    "publisher": "Secker & Warburg",
+    "publishDate": "1949-06-08T00:00:00.000Z",
+    "pagesNumber": 328
+  },
+  {
+    "title": "Animal Farm",
+    "cover": "https://m.media-amazon.com/images/I/71je3-DsQEL._AC_UF1000,1000_QL80_.jpg",
+    "authorId": 2,
+    "description": "A satirical allegory of Soviet totalitarianism.",
+    "publisher": "Secker & Warburg",
+    "publishDate": "1945-08-17T00:00:00.000Z",
+    "pagesNumber": 112
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "cover": "https://m.media-amazon.com/images/I/71ihbKf67RL.jpg",
+    "authorId": 3,
+    "description": "A detective novel featuring Hercule Poirot.",
+    "publisher": "Collins Crime Club",
+    "publishDate": "1934-01-01T00:00:00.000Z",
+    "pagesNumber": 256
+  },
+  {
+    "title": "The Great Gatsby",
+    "cover": "https://m.media-amazon.com/images/I/61z0MrB6qOS._AC_UF1000,1000_QL80_.jpg",
+    "authorId": 4,
+    "description": "A story of the fabulously wealthy Jay Gatsby and his love for Daisy Buchanan.",
+    "publisher": "Scribner",
+    "publishDate": "1925-04-10T00:00:00.000Z",
+    "pagesNumber": 180
+  },
+  {
+    "title": "Pride and Prejudice",
+    "cover": "https://cloud.firebrandtech.com/api/v2/image/111/9780785839866/CoverArtHigh/XL",
+    "authorId": 5,
+    "description": "A romantic novel of manners.",
+    "publisher": "T. Egerton, Whitehall",
+    "publishDate": "1813-01-28T00:00:00.000Z",
+    "pagesNumber": 279
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "cover": "https://m.media-amazon.com/images/I/812CcFkEPCL.jpg",
+    "authorId": 1,
+    "description": "The third book in the Harry Potter series.",
+    "publisher": "Bloomsbury",
+    "publishDate": "1999-07-08T00:00:00.000Z",
+    "pagesNumber": 317
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "cover": "https://m.media-amazon.com/images/I/91-LL7OnDCL._AC_UF1000,1000_QL80_.jpg",
+    "authorId": 1,
+    "description": "The fourth book in the Harry Potter series.",
+    "publisher": "Bloomsbury",
+    "publishDate": "2000-07-08T00:00:00.000Z",
+    "pagesNumber": 636
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "cover": "https://m.media-amazon.com/images/I/71pgI2ou5oL._AC_UF1000,1000_QL80_.jpg",
+    "authorId": 1,
+    "description": "The fifth book in the Harry Potter series.",
+    "publisher": "Bloomsbury",
+    "publishDate": "2003-06-21T00:00:00.000Z",
+    "pagesNumber": 766
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "cover": "https://m.media-amazon.com/images/I/61sXBXmAWML.jpg",
+    "authorId": 1,
+    "description": "The sixth book in the Harry Potter series.",
+    "publisher": "Bloomsbury",
+    "publishDate": "2005-07-16T00:00:00.000Z",
+    "pagesNumber": 607
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "cover": "https://m.media-amazon.com/images/I/71sH3vxziLL.jpg",
+    "authorId": 1,
+    "description": "The seventh book in the Harry Potter series.",
+    "publisher": "Bloomsbury",
+    "publishDate": "2007-07-21T00:00:00.000Z",
+    "pagesNumber": 607
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg",
+    "authorId": 4,
+    "description": "A novel about teenage rebellion and alienation.",
+    "publisher": "Little, Brown and Company",
+    "publishDate": "1951-07-16T00:00:00.000Z",
+    "pagesNumber": 234
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "cover": "https://m.media-amazon.com/images/I/81aY1lxk+9L.jpg",
+    "authorId": 5,
+    "description": "A novel about racial injustice in the American South.",
+    "publisher": "J.B. Lippincott & Co.",
+    "publishDate": "1960-07-11T00:00:00.000Z",
+    "pagesNumber": 281
+  },
+  {
+    "title": "The Hobbit",
+    "cover": "https://m.media-amazon.com/images/I/71jD4jMityL._AC_UF1000,1000_QL80_.jpg",
+    "authorId": 2,
+    "description": "A fantasy novel about the adventures of Bilbo Baggins.",
+    "publisher": "George Allen & Unwin",
+    "publishDate": "1937-09-21T00:00:00.000Z",
+    "pagesNumber": 310
+  }
+]

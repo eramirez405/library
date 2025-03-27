@@ -1,0 +1,22 @@
+[
+  {
+    "name": "J.K. Rowling",
+    "details": "British author best known for the Harry Potter series."
+  },
+  {
+    "name": "George Orwell",
+    "details": "English novelist and essayist, known for '1984' and 'Animal Farm'."
+  },
+  {
+    "name": "Agatha Christie",
+    "details": "English writer known for her detective novels and short story collections."
+  },
+  {
+    "name": "F. Scott Fitzgerald",
+    "details": "American novelist and short story writer, famous for 'The Great Gatsby'."
+  },
+  {
+    "name": "Jane Austen",
+    "details": "English novelist known for her romantic fiction set among the landed gentry."
+  }
+]

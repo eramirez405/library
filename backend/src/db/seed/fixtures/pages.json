@@ -1,0 +1,92 @@
+[
+  {
+    "bookId": 1,
+    "pageNumber": 1,
+    "plainTextContent": "Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.",
+    "htmlContent": "<h1>Chapter 1: The Boy Who Lived</h1><p>Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were <strong>perfectly normal</strong>, thank you very much.</p>"
+  },
+  {
+    "bookId": 1,
+    "pageNumber": 2,
+    "plainTextContent": "They were the last people you'd expect to be involved in anything strange or mysterious, because they just didn't hold with such nonsense.",
+    "htmlContent": "<p>They were the last people you'd expect to be involved in anything <em>strange</em> or <em>mysterious</em>, because they just didn't hold with such nonsense.</p>"
+  },
+  {
+    "bookId": 1,
+    "pageNumber": 3,
+    "plainTextContent": "Mr. Dursley was the director of a firm called Grunnings, which made drills.",
+    "htmlContent": "<p>Mr. Dursley was the director of a firm called <strong>Grunnings</strong>, which made drills.</p>"
+  },
+  {
+    "bookId": 1,
+    "pageNumber": 4,
+    "plainTextContent": "He was a big, beefy man with hardly any neck, although he did have a very large mustache.",
+    "htmlContent": "<p>He was a big, beefy man with hardly any neck, although he did have a <strong>very large mustache</strong>.</p>"
+  },
+  {
+    "bookId": 1,
+    "pageNumber": 5,
+    "plainTextContent": "Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors.",
+    "htmlContent": "<p>Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time <em>craning over garden fences</em>, spying on the neighbors.</p>"
+  },
+  {
+    "bookId": 2,
+    "pageNumber": 1,
+    "plainTextContent": "Not for the first time, an argument had broken out over breakfast at number four, Privet Drive.",
+    "htmlContent": "<h1>Chapter 2: The Vanishing Glass</h1><p>Not for the first time, an argument had broken out over breakfast at number four, Privet Drive.</p>"
+  },
+  {
+    "bookId": 2,
+    "pageNumber": 2,
+    "plainTextContent": "Mr. Vernon Dursley had been woken in the early hours of the morning by a loud, hooting noise from his nephew Harry's room.",
+    "htmlContent": "<p>Mr. Vernon Dursley had been woken in the early hours of the morning by a loud, hooting noise from his nephew <strong>Harry's</strong> room.</p>"
+  },
+  {
+    "bookId": 2,
+    "pageNumber": 3,
+    "plainTextContent": "'Third time this week!' he roared across the table. 'If you can't control that owl, it'll have to go!'",
+    "htmlContent": "<p>'Third time this week!' he roared across the table. 'If you can't control that owl, it'll have to go!'</p>"
+  },
+  {
+    "bookId": 2,
+    "pageNumber": 4,
+    "plainTextContent": "Harry tried, yet again, to explain about Hedwig.",
+    "htmlContent": "<p>Harry tried, yet again, to explain about <strong>Hedwig</strong>.</p>"
+  },
+  {
+    "bookId": 2,
+    "pageNumber": 5,
+    "plainTextContent": "'She's bored,' he said. 'She's used to flying around outside. If I could just let her out at night—'",
+    "htmlContent": "<p>'She's bored,' he said. 'She's used to flying around outside. If I could just let her out at night—'</p>"
+  },
+  {
+    "bookId": 3,
+    "pageNumber": 1,
+    "plainTextContent": "It was a bright cold day in April, and the clocks were striking thirteen.",
+    "htmlContent": "<h1>Chapter 1: The Party</h1><p>It was a bright cold day in April, and the clocks were striking <strong>thirteen</strong>.</p>"
+  },
+  {
+    "bookId": 3,
+    "pageNumber": 2,
+    "plainTextContent": "Winston Smith, his chin nuzzled into his breast in an effort to escape the vile wind, slipped quickly through the glass doors of Victory Mansions, though not quickly enough to prevent a swirl of gritty dust from entering along with him.",
+    "htmlContent": "<p>Winston Smith, his chin nuzzled into his breast in an effort to escape the vile wind, slipped quickly through the glass doors of <strong>Victory Mansions</strong>, though not quickly enough to prevent a swirl of gritty dust from entering along with him.</p>"
+  },
+  {
+    "bookId": 3,
+    "pageNumber": 3,
+    "plainTextContent": "The hallway smelt of boiled cabbage and old rag mats.",
+    "htmlContent": "<p>The hallway smelt of <em>boiled cabbage</em> and <em>old rag mats</em>.</p>"
+  },
+  {
+    "bookId": 3,
+    "pageNumber": 4,
+    "plainTextContent": "At one end of it a coloured poster, too large for indoor display, had been tacked to the wall.",
+    "htmlContent": "<p>At one end of it a coloured poster, too large for indoor display, had been tacked to the wall.</p>"
+  },
+  {
+    "bookId": 3,
+    "pageNumber": 5,
+    "plainTextContent": "It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features.",
+    "htmlContent": "<p>It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and <strong>ruggedly handsome features</strong>.</p>"
+  }
+]
